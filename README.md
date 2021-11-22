@@ -32,9 +32,11 @@
 
 Starter med 1d6 i alt. Kjøp så terninger for 6 poeng, en attribut kan kun oppgraderes en gang.
 
-- 1 terning: 1
-- 2 terninger: 3
-- 3 terninger: 6
+| Terninger | Poeng |
+|-----------|-------|
+|         1 |     1 |
+|         2 |     3 |
+|         3 |     6 |
 
 - Styrke: fysisk styrke
 - Akrobatikk: akrobatikk, smidighet, mykhet, reaksjon
@@ -83,6 +85,8 @@ Hastigheter kan forbedres utifra yrke og/eller utholdenhet
 
 Du kan kun gå i nærkamp/bryte runde etter et suksessfullt angrep der all skaden ikke ble redusert. Du kan bryte ut av en nærkamp ved et suksessfullt motangrep sålenge all skaden ikke ble redusert.
 
+Versus:
+
 - Forsvar: YH+Akrobatikk
 - Skadereduksjon: Styrke
 
@@ -91,6 +95,8 @@ Du kan kun gå i nærkamp/bryte runde etter et suksessfullt angrep der all skade
 
 - Angrep: YH+Styrke+Våpen
 - Skade: Styrke+Våpen
+
+Versus:
 
 - Forsvar: YH+Akrobatikk/Styrke+Våpen
 - Skadereduksjon:
@@ -101,6 +107,8 @@ Du kan kun gå i nærkamp/bryte runde etter et suksessfullt angrep der all skade
 - Angrep: YH+Akrobatikk+Våpen
 - Skade: Styrke+Våpen
 
+Versus:
+
 - Forsvar: YH+Akrobatikk+Våpen
 - Skadereduksjon:
 
@@ -109,6 +117,8 @@ Du kan kun gå i nærkamp/bryte runde etter et suksessfullt angrep der all skade
 
 - Angrep: YH+Finmotorikk
 - Skade: Våpen
+
+Versus:
 
 - Forsvar: Kloss hold 2d6, middels 4d6, lang 6d6
 - Skadereduksjon: 
