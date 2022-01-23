@@ -91,7 +91,7 @@ Versus:
 - Skadereduksjon: Styrke
 
 
-# Tungt nærkampsvåpen
+## Tungt nærkampsvåpen
 
 - Angrep: YH+Styrke+Våpen
 - Skade: Styrke+Våpen
@@ -102,7 +102,7 @@ Versus:
 - Skadereduksjon:
 
 
-# Lett nærkampsvåpen
+## Lett nærkampsvåpen
 
 - Angrep: YH+Akrobatikk+Våpen
 - Skade: Styrke+Våpen
